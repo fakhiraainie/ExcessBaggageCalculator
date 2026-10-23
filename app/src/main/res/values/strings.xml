@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Baggage Fee Calculator</string>
+    <string name="title_calculator">Excess Baggage Fee Estimator</string>
+    <string name="title_about">About Developer</string>
+
+    <!-- Input Labels -->
+    <string name="label_weight">Checked Baggage Weight (kg):</string>
+    <string name="hint_weight">e.g. 25</string>
+    <string name="label_class">Ticket Class:</string>
+    <string name="class_economy">Economy (20kg free)</string>
+    <string name="class_business">Business (40kg free)</string>
+    <string name="label_rate">Excess Rate per kg (RM):</string>
+    <string name="hint_rate">e.g. 15</string>
+
+    <!-- Buttons -->
+    <string name="btn_calculate">Calculate Fee</string>
+    <string name="btn_clear">Reset</string>
+
+    <!-- Output Labels -->
+    <string name="label_excess_weight">Excess Weight: -</string>
+    <string name="label_excess_charge">Excess Charge: -</string>
+    <string name="label_total_payable">Total Payable (incl. 8% tax): -</string>
+</resources>
